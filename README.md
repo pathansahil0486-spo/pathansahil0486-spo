@@ -100,7 +100,7 @@
 ## 📫 Connect With Me
 
 * 📧 Email: [pathansahil0486@gmail.com](mailto:your-email@example.com)
-* 💼 LinkedIn:
+* 💼 LinkedIn:https://www.linkedin.com/in/sahil-pathan-394513261/
 
 ---
 
